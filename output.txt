@@ -1,0 +1,9 @@
+goodies selected for distribution are: 
+
+Scale:  4999
+Fitbit Plus:  7980
+Microwave Oven:  9800
+Alexa:  9999
+Digital Camera:  11101
+
+and the difference between the choosen goodie with the highest and the lowest prise is 6102
